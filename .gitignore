@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# generated files
+/dist
+/.gemini
+
+# env files
+/.env
+
