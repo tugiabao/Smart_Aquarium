@@ -9,6 +9,8 @@
 
 # production
 /build
+/dist
+/.gemini
 
 # debug
 npm-debug.log*
